@@ -3,6 +3,8 @@ This extension copies the text you selected in file with it's location: the clas
 
 Cloned and fixed from https://marketplace.visualstudio.com/items?itemName=IgorShatalkin.CopyWithLocation
 
+Get the new plugin from https://marketplace.visualstudio.com/items?itemName=thealexdresko.CopyWithLocation2
+
 The original author isn't responding to issues and it didn't work with VS 2019. 
 
 I haven't ported all of the code and functionality over, yet, but it's a great starting point. Happy to accept pull requests and the like. Let's make this awesome. 
